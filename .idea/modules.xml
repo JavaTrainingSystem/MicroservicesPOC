@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/APIGateway/APIGateway.iml" filepath="$PROJECT_DIR$/APIGateway/APIGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DMS/DMS/DMS.iml" filepath="$PROJECT_DIR$/DMS/DMS/DMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SMS/SMS/DMS (1).iml" filepath="$PROJECT_DIR$/SMS/SMS/DMS (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MicroservicesPOC.iml" filepath="$PROJECT_DIR$/.idea/MicroservicesPOC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SD/SD/SD.iml" filepath="$PROJECT_DIR$/SD/SD/SD.iml" />
     </modules>
   </component>
 </project>

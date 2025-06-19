@@ -1,10 +1,10 @@
-package com.dms.DMS;
+package com.tcs.APIGateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DmsApplicationTests {
+class ApiGatewayApplicationTests {
 
 	@Test
 	void contextLoads() {
